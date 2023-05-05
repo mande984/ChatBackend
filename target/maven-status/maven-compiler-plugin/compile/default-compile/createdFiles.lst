@@ -1,0 +1,12 @@
+com/SWEN342/ChatApplicationBackend/Conversation/Conversation.class
+com/SWEN342/ChatApplicationBackend/User/User.class
+com/SWEN342/ChatApplicationBackend/Message/MessageRepository.class
+com/SWEN342/ChatApplicationBackend/Message/MessageController.class
+com/SWEN342/ChatApplicationBackend/UserConversation/UserConversation.class
+com/SWEN342/ChatApplicationBackend/UserConversation/UserConversationController.class
+com/SWEN342/ChatApplicationBackend/Conversation/ConversationRepository.class
+com/SWEN342/ChatApplicationBackend/UserConversation/UserConversationRepository.class
+com/SWEN342/ChatApplicationBackend/Conversation/ConversationController.class
+com/SWEN342/ChatApplicationBackend/User/UserController.class
+com/SWEN342/ChatApplicationBackend/User/UserRepository.class
+com/SWEN342/ChatApplicationBackend/Message/Message.class

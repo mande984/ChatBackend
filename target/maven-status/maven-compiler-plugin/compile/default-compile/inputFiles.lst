@@ -1,0 +1,13 @@
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Message/MessageController.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Message/Message.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Message/MessageRepository.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/User/User.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/ChatApplicationBackendApplication.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Conversation/ConversationController.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/User/UserController.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/UserConversation/UserConversationController.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Conversation/ConversationRepository.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/User/UserRepository.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/UserConversation/UserConversationRepository.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/UserConversation/UserConversation.java
+/Users/markandersonjr/IdeaProjects/ChatBackend/src/main/java/com/SWEN342/ChatApplicationBackend/Conversation/Conversation.java
