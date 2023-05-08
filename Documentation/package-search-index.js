@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.SWEN342.ChatApplicationBackend"},{"l":"com.SWEN342.ChatApplicationBackend.Conversation"},{"l":"com.SWEN342.ChatApplicationBackend.Message"},{"l":"com.SWEN342.ChatApplicationBackend.User"},{"l":"com.SWEN342.ChatApplicationBackend.UserConversation"}];updateSearchResults();
